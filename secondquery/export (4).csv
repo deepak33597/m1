@@ -1,0 +1,17 @@
+application_id,address_type,address_line_1,address_line_2,city,state,postal_code,Country_code,creation_timestamp,last_updated_timestamp,validated_by_smarty_streets_indicator
+900,physical,5711 nw 48 lane,null,lauderhill,FL,9537,USA,2019-11-24T03:23:28.000+0000,2019-11-24T15:23:33.000+0000,False
+956,Mailing,412 lock,null,voluntown,MI,9537,USA,2019-11-24T11:36:36.000+0000,2019-11-29T11:36:42.000+0000,False
+896,Mailing,5711 nw 48 lane,null,lauderhill,VA,9537,USA,2019-11-24T03:23:28.000+0000,2019-11-26T16:27:21.000+0000,False
+366,Mailing,4217 si streat,null,riverbank,AR,9537,USA,2019-11-24T03:10:06.000+0000,2019-11-30T03:10:12.000+0000,False
+972,Mailing,412 rockvil,null,voluntown,ZA,9537,USA,2019-11-24T11:36:36.000+0000,2019-11-29T11:36:42.000+0000,False
+970,Mailing,412 rockvilla rd,null,voluntown,CT,9537,USA,2019-11-24T11:36:36.000+0000,2019-11-25T16:24:04.000+0000,False
+900,Mailing,5711 nw 48 lane,null,lauderhill,FL,9537,USA,2019-11-24T03:23:28.000+0000,2019-11-24T15:23:33.000+0000,False
+956,Mailing,412 lock,null,voluntown,AZ,9537,USA,2019-11-24T11:36:36.000+0000,2019-11-29T11:36:42.000+0000,False
+970,physical,412 rockvilla rd,null,voluntown,CT,9537,USA,2019-11-24T11:36:36.000+0000,2019-11-25T16:24:04.000+0000,False
+972,physical,412 rockvil,null,voluntown,VA,9537,USA,2019-11-24T11:36:36.000+0000,2019-11-29T11:36:42.000+0000,False
+366,Mailing,4217 si streat,null,riverbank,CA,9537,USA,2019-11-24T03:10:06.000+0000,2019-11-30T03:10:12.000+0000,False
+424,Mailing,412 rockvil,null,voluntown,ZA,9537,USA,2019-11-24T11:36:36.000+0000,2019-11-29T11:36:42.000+0000,False
+956,physical,412 lock,null,voluntown,AZ,9537,USA,2019-11-24T11:36:36.000+0000,2019-11-29T11:36:42.000+0000,False
+366,physical,4217 si streat,null,riverbank,CA,9537,USA,2019-11-24T03:10:06.000+0000,2019-11-28T03:10:12.000+0000,False
+896,physical,5711 nw 48 lane,null,lauderhill,FL,9537,USA,2019-11-24T03:23:28.000+0000,2019-11-24T15:23:33.000+0000,False
+424,physical,5711 nw 48 lane,null,lauderhill,FL,9537,USA,2019-11-24T03:23:28.000+0000,2019-11-24T15:23:33.000+0000,False
